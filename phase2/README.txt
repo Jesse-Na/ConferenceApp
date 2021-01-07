@@ -3,6 +3,8 @@ You can find the driver pre downloaded in our phase 2 folder (mongo-java-driver-
 Alternatively, if you cannot setup mongodb, watch the video demo of our program instead.
 [https://youtu.be/b-LFwrDeQXw]
 
+Additionally, you will need to set up a MongoDB database and set the environment variable DBPATH as the link to said database.
+
 1. Run main. This will create an application window. Login music will play, turn your volume down!
    NOTE: Please do not resize the window to be bigger/smaller if possible. A maximum/minimum window size is not set
    because JavaFX is known to have display issues on devices with high DPI if a maximum/minimum window size is set.
